@@ -1,0 +1,4 @@
+python-binance
+pandas
+TA-Lib
+requests
